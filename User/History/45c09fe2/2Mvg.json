@@ -1,0 +1,21 @@
+{
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula",
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+       
+        "python": "ls;python -u",
+    
+    },
+    "[python]": {
+        
+
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "explorer.compactFolders": false
+}

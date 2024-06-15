@@ -1,0 +1,13 @@
+// Coloque as suas associações de teclas neste arquivo para substituir os padrões
+[
+    {
+        "key": "shift+alt+up",
+        "command": "editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+down",
+        "command": "-editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
+    }
+]

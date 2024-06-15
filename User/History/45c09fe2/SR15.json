@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula Soft"
+}

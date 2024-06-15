@@ -1,0 +1,4 @@
+numero_1 = 0.1
+numero_2 = 0.8
+numero_3 = numero_1 + numero_2
+print(f'{int(numero_3):.1}')

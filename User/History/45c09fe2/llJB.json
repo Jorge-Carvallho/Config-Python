@@ -1,0 +1,25 @@
+{
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+       
+        "python": "clear;python -u",
+    
+    },
+    "code-runner.ignoreSelection": true,
+    "[python]": {
+        
+
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "explorer.compactFolders": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "python",
+    "debug.disassemblyView.showSourceCode": false
+}

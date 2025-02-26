@@ -1,1 +1,0 @@
-[[[0,"/home/jorge/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist/typeshed-fallback/stubs/pywin32/timer.pyi","","",null,1],[false,[["set_timer",true,2,["set_timer",[0,"/usr/lib/python3/dist-packages/win32-stubs/timer.pyi","","",null,1],12]],["kill_timer",true,2,["kill_timer",[0,"/usr/lib/python3/dist-packages/win32-stubs/timer.pyi","","",null,1],12]]]]]]

@@ -1,1 +1,0 @@
-[[[0,"/home/jorge/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist/typeshed-fallback/stubs/ujson/ujson.pyi","","",null,1],[false,[["__version__",true,13,null],["encode",true,12,null],["dumps",true,12,null],["dump",true,12,null],["decode",true,12,null],["loads",true,12,null],["load",true,12,null],["JSONDecodeError",true,5,null]]]]]

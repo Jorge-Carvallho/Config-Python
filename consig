@@ -1,0 +1,31 @@
+{
+    "code-runner.showOutput": true,
+  
+    // "editor.defaultFormatter": "ms-python.autopep8",
+    "window.zoomLevel": 1.5,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    // "code-runner.runInTerminal": false,
+    "code-runner.runInTerminal": true,
+    // "code-runner.clearPreviousOutput": false,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.executorMap": {
+      // "python": "clear;python -u",
+      "javascript": "node"
+    },
+    "code-runner.ignoreSelection": true,
+    "[python]": {
+      "diffEditor.ignoreTrimWhitespace": false,
+      "editor.formatOnType": true,
+      "editor.wordBasedSuggestions": "off"
+    },
+    "explorer.compactFolders": false,
+    // "workbench.iconTheme": "material-icon-theme",
+    "debug.disassemblyView.showSourceCode": false,
+    "explorer.confirmDragAndDrop": false,
+    "window.titleBarStyle": "custom",
+    "python.defaultInterpreterPath": "python",
+    "github.copilot.enable": false
+  
+  }
